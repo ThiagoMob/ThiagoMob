@@ -10,4 +10,4 @@ My name is **Thiago Xavier**, I'm from Brazil, I am a fullstack developer in tra
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sr.zeroo/)](https://www.instagram.com/sr.zeroo/)
 
 
-![Alt Text](https://media.giphy.com/media/Zq6vmn4P1sLwQ/giphy.gif)
+![Alt Text](https://tenor.com/view/josuke-higashikata-anime-wave-jojo-gif-20160136)
