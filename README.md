@@ -8,3 +8,6 @@ My name is **Thiago Xavier**, I'm from Brazil, I am a fullstack developer in tra
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-xavier-1a1a00208)](https://www.linkedin.com/in/thiago-xavier-1a1a00208) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sr.zeroo/)](https://www.instagram.com/sr.zeroo/)
+
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
