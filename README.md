@@ -1,13 +1,14 @@
 #  Hello welcome. :sparkles:
 
-My name is **Thiago Xavier**, I'm from Brazil, I am a fullstack developer in training.:computer::mortar_board:
+My name is **Thiago Xavier**, I'm from Brazil, I am a front-end developer in training.:computer::mortar_board:
 
 ### "A tecnologia move o mundo." :star:
 
-## Reach me out  :point_down:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-xavier-1a1a00208)](https://www.linkedin.com/in/thiago-xavier-1a1a00208) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sr.zeroo/)](https://www.instagram.com/sr.zeroo/)
+ <div>
+<a href="https://github.com/ThiagoMob/">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
 
 
 ![Alt Text](https://media.giphy.com/media/Zq6vmn4P1sLwQ/giphy.gif)
