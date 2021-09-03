@@ -2,7 +2,7 @@
 
 My name is **Thiago Xavier**, I'm from Brazil, I am a front-end developer in training.:computer::mortar_board:
 
-### "A tecnologia move o mundo." :star
+### "A tecnologia move o mundo." :star:
 
 <div>
   <a href="https://github.com/ThiagoMob">
